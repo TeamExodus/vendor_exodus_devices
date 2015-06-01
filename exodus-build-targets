@@ -1,7 +1,8 @@
  #supported devices
-exodus_shamu-userdebug 
 exodus_bacon-userdebug
-exodus_vs985-userdebug
+exodus_flo-userdebug
 exodus_flounder-userdebug
+exodus_shamu-userdebug 
+exodus_vs985-userdebug
  #end of supported devices
 

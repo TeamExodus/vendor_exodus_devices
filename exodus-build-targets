@@ -25,7 +25,7 @@ exodus_manta-userdebug
 exodus_obake-userdebug
 exodus_picassowifi-userdebug
 exodus_scorpion-userdebug
-exodus_scorpion_windy_userdebug
+exodus_scorpion_windy-userdebug
 exodus_shamu-userdebug
 exodus_sprout4-userdebug
 exodus_v500-userdebug
@@ -37,5 +37,5 @@ exodus_titan-userdebug
 exodus_tomato-userdebug
 exodus_lettuce-userdebug
 exodus_z3-userdebug
-exodus-z3c-userdebug
+exodus_z3c-userdebug
 #end of supported devices

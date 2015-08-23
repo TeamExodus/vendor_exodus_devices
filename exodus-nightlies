@@ -1,5 +1,6 @@
 #devices to be build as nightly with the weekday to be build
 bacon=Mon,Wen,Fri
+cancro=Tue,Thu,Sat
 d2spr=Tue,Thu,Sat
 d850=Tue,Thu,Sat
 d851=Mon,Wen,Fri=Tue,Thu,Sat

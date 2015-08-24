@@ -1,0 +1,22 @@
+#devices to be build as nightly on mondays
+bacon
+deb
+falcon
+flo
+flounder
+hammerhead
+hammerheadcaf
+m7
+m8
+mako
+manta
+obake
+shamu
+xt907
+xt926
+titan
+tomato
+lettuce
+z3
+z3c
+#end of supported devices

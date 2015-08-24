@@ -1,0 +1,21 @@
+#devices to be build as nightly with the weekday to be build
+d2spr
+d850
+d851
+d852
+d855
+f400
+find7
+jfltespr
+jfltevzw
+klte
+kltespr
+ls990
+picassowifi
+scorpion
+scorpion_windy
+sprout4
+v500
+ville
+vs985
+#end of supported devices

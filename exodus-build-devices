@@ -1,7 +1,6 @@
 # supported devices list
 # Separated by a ";" character
 # Device ; Codename ; Manufacturer ; carrier
-
 One;bacon;Oneplus;unlocked
 Mi3/Mi4;cancro;Xaiomi;unlocked
 Galaxy S3;d2spr;Samsung;Sprint

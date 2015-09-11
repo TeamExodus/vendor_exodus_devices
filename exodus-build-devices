@@ -31,8 +31,8 @@ Nexus 10;manta;Google;unlocked
 Galaxy Note 2;n7100;Samsung;unlocked
 Droid Ultra/MAXX;obake;Motorola;unlocked
 Galaxy Tab Pro 10.1;picassowifi;Samsung;Wifi
-Sony Xperia Z3 Tab;scorpion;Sony;unlocked
-Sony Xperia Z3 Tab;scorpion_windy;Sony;Wifi
+Xperia Z3 Tab;scorpion;Sony;unlocked
+Xperia Z3 Tab;scorpion_windy;Sony;Wifi
 Nexus 6;shamu;Google;unlocked
 Android One 2014;sprout4;Google;unlocked
 G-Pad 8.3;v500;LGE;unlocked
@@ -42,6 +42,7 @@ G3;vs985;LGE;Verizon
 Droid RAZR M;xt907;Motorola;unlocked
 Droid RAZR HD;xt926;Motorola;CDMA
 Moto G 2014;titan;Motorola;unlocked
+Two;oneplus2;Oneplus;unlocked
 Yureka;tomato;YU;unlocked
 Yuphoria;lettuce;YU;unlocked
 Xperia Z3;z3;Sony;unlocked

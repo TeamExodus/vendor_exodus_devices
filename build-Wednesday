@@ -1,5 +1,6 @@
 #devices to be build as nightly on mondays
 bacon
+condor
 deb
 falcon
 flo

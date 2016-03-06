@@ -1,11 +1,3 @@
 #devices to be build as nightly with the weekday to be build
-d800
-d851
-f400
-hlte
-ls980
-ls990
-scorpion
-scorpion_windy
-v500
+
 #end of supported devices

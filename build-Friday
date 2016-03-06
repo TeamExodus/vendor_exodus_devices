@@ -1,9 +1,3 @@
 #devices to be build as nightly on mondays
-deb
-flounder
-m7
-manta
-otus
-xt907
-tomato
+
 #end of supported devices

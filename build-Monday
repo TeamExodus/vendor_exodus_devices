@@ -1,11 +1,3 @@
 #devices to be build as nightly on mondays
-bacon
-falcon
-hammerhead
-hammerheadcaf
-m8
-n7100
-serranoltexx
-xt926
-lettuce
+
 #end of supported devices

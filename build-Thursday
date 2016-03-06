@@ -1,12 +1,3 @@
 #devices to be build as nightly with the weekday to be build
-d2spr
-d850
-d855
-ham
-klte
-kltespr
-picassowifi
-us990
-vs980
-vs985
+
 #end of supported devices

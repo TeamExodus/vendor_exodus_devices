@@ -2,58 +2,8 @@
 # Separated by a ";" character
 # Device ; Codename ; Manufacturer ; carrier
 One;bacon;Oneplus;unlocked
-Mi3/Mi4;cancro;Xaiomi;unlocked
-Galaxy S3;d2spr;Samsung;Sprint
-G2;d800;LGE;AT&T
-G2;d802;LGE;unlocked
-G3;d850;LGE;AT&T
-G3;d851;LGE;T-Mobile
-G3;d852;LGE;Canada
-G3;d855;LGE;unlocked
-Nexus 7 2013;deb;Google;LTE
-G3;f400;LGE;Korean
-Moto G;falcon;Motorola;unlocked
-Moto E;condor;Motorola;unlocked
-Moto E 2015;otus;Motorola;unlocked
-Find 7;find7;Oppo;unlocked
 Nexus 7 2013;flo;Google;Wifi
 Nexus 9;flounder;Google;unlocked
-Nexus Player;fugu;Google;n/a
-Z1;ham;Zuk;unlocked
-Nexus 5;hammerhead;Google;unlocked
-Nexus 5 CAF;hammerheadcaf;Google;unlocked
-Galaxy Note 2;n7100;Samsung;unlocked
-Galaxy Note 3;hlte;Samsung;unlocked
-Galaxy S4;i9500;Samsung;International
-Galaxy S4;jfltespr;Samsung;Sprint
-Galaxy S4;jfltevzw;Samsung;Verizon
-Galaxy S4 Mini;serranoltexx;Samsung;unlocked
-Galaxy S5;klte;Samsung;unlocked
-Galaxy S5;kltespr;Samsung;Sprint
-G2;ls980;LGE;Sprint
-G3;ls990;LGE;Sprint
-One M7;m7;HTC;unlocked
-One M8;m8;HTC;unlocked
-Nexus 4;mako;Google;unlocked
-Nexus 10;manta;Google;unlocked
-Galaxy Note 2;n7100;Samsung;unlocked
-Droid Ultra/MAXX;obake;Motorola;unlocked
-Galaxy Tab Pro 10.1;picassowifi;Samsung;Wifi
-Xperia Z3 Tab;scorpion;Sony;unlocked
-Xperia Z3 Tab;scorpion_windy;Sony;Wifi
 Nexus 6;shamu;Google;unlocked
-Android One 2014;sprout4;Google;unlocked
-G3;us990;LGE;US Cellular
-G-Pad 8.3;v500;LGE;unlocked
-One S;ville;HTC;unlocked
-G2;vs980;LGE;Verizon
-G3;vs985;LGE;Verizon
-Droid RAZR M;xt907;Motorola;unlocked
-Droid RAZR HD;xt926;Motorola;CDMA
-Moto G 2014;titan;Motorola;unlocked
 Two;oneplus2;Oneplus;unlocked
-Yureka;tomato;YU;unlocked
-Yuphoria;lettuce;YU;unlocked
-Xperia Z3;z3;Sony;unlocked
-Xperia Z3 Compact;z3c;Sony;unlocked
 #end of supported devices

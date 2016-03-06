@@ -1,11 +1,3 @@
 #devices to be build as nightly on mondays
-condor
-flo
-i9500
-mako
-obake
-shamu
-titan
-z3
-z3c
+
 #end of supported devices

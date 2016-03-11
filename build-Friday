@@ -1,3 +1,9 @@
-#devices to be build as nightly on mondays
-
+#devices to be build as nightly on fridays
+bacon
+bullhead
+flo
+flounder
+hammerhead
+shamu
+oneplus2
 #end of supported devices

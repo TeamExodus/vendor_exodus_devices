@@ -5,5 +5,6 @@ One;bacon;Oneplus;unlocked
 Nexus 7 2013;flo;Google;Wifi
 Nexus 9;flounder;Google;unlocked
 Nexus 6;shamu;Google;unlocked
-Two;oneplus2;Oneplus;unlocked
+Oneplus 2;oneplus2;Oneplus;unlocked
+Oneplus X;onyx;Oneplus;unlocked
 #end of supported devices

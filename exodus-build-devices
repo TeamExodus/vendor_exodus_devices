@@ -2,9 +2,17 @@
 # Separated by a ";" character
 # Device ; Codename ; Manufacturer ; carrier
 One;bacon;Oneplus;unlocked
+G3;d850;LGE;AT&T
+G3;d851;LGE;T-Mobile
+G3;d852;LGE;Canada
+G3;d855;LGE;unlocked
+G3;f400;LGE;Korean
+G3;ls990;LGE;Sprint
 Nexus 7 2013;flo;Google;Wifi
 Nexus 9;flounder;Google;unlocked
 Nexus 6;shamu;Google;unlocked
 Oneplus 2;oneplus2;Oneplus;unlocked
 Oneplus X;onyx;Oneplus;unlocked
+G2;vs980;LGE;Verizon
+G3;vs985;LGE;Verizon
 #end of supported devices

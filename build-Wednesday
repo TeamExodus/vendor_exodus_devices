@@ -1,9 +1,17 @@
 #devices to be build as nightly on wednesdays
 bacon
 bullhead
+d850
+d851
+d852
+d855
+f400
 flo
 flounder
+ls990
 hammerhead
 shamu
 oneplus2
+vs980
+vs985
 #end of supported devices

@@ -1,5 +1,4 @@
 #devices to be build as nightly with the weekday to be build
-bacon
 bullhead
 d850
 d851
@@ -12,9 +11,9 @@ ls980
 ls990
 hammerhead
 shamu
-oneplus2
 onyx
 find7
 vs980
 vs985
+tomato
 #end of supported devices

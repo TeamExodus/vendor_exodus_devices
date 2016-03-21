@@ -2,6 +2,10 @@
 # Separated by a ";" character
 # Device ; Codename ; Manufacturer ; carrier
 One;bacon;Oneplus;unlocked
+G2;d800;LGE;AT&T
+G2;d801;LGE;T-Mobile
+G2;d802;LGE;unlocked
+G2;d803;LGE;Canada
 G3;d850;LGE;AT&T
 G3;d851;LGE;T-Mobile
 G3;d852;LGE;Canada

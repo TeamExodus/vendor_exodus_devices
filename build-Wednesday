@@ -1,4 +1,5 @@
 #devices to be build as nightly on wednesdays
+angler
 bacon
 bullhead
 d800
@@ -15,6 +16,7 @@ flounder
 ls980
 ls990
 hammerhead
+mako
 shamu
 oneplus2
 find7

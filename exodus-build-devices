@@ -1,6 +1,7 @@
 # supported devices list
 # Separated by a ";" character
 # Device ; Codename ; Manufacturer ; carrier
+Moto Style (Pure);clark;Motorolla;unlocked
 One;bacon;Oneplus;unlocked
 G2;d800;LGE;AT&T
 G2;d801;LGE;T-Mobile

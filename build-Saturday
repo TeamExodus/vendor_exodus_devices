@@ -1,7 +1,5 @@
 #devices to be build as nightly with the weekday to be build
 Armani
-bacon
-bullhead
 clark
 d800
 d801
@@ -12,15 +10,7 @@ d851
 d852
 d855
 f400
-flo
-flounder
-ls980
-ls990
-shamu
-oneplus2
-onyx
-find7
+tomato
 vs980
 vs985
-tomato
 #end of supported devices

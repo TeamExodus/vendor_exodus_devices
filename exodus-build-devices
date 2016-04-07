@@ -1,7 +1,7 @@
 # supported devices list
 # Separated by a ";" character
 # Device ; Codename ; Manufacturer ; carrier
-Moto Style (Pure);clark;Motorolla;unlocked
+Moto Style (Pure);clark;Motorola;unlocked
 One;bacon;Oneplus;unlocked
 G2;d800;LGE;AT&T
 G2;d801;LGE;T-Mobile
@@ -14,6 +14,7 @@ G3;d855;LGE;unlocked
 G3;f400;LGE;Korean
 G2;ls980;LGE;Sprint
 G3;ls990;LGE;Sprint
+Moto G;falcon;Motorola;unlocked
 Nexus 7 2013;flo;Google;Wifi
 Nexus 9;flounder;Google;unlocked
 Nexus 6;shamu;Google;unlocked

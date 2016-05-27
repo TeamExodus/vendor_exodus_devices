@@ -1,4 +1,5 @@
 #devices to be build as nightly on wednesdays
+oneplus2
 angler
 bacon
 bullhead
@@ -15,7 +16,6 @@ serranoltexx
 serrano3gxx
 serranodsdd
 sprout4
-oneplus2
 onyx
 falcon
 find7
